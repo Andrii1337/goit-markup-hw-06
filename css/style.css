@@ -520,6 +520,7 @@ a {
 	width: 528px;
 	height: 601px;
 	background-color: #fff;
+	padding: 40px;
 }
 .vector {
 	position: absolute;
@@ -531,10 +532,6 @@ a {
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-}
-.form-correct {
-	padding: 40px;
-	box-sizing: border-box;
 }
 .modal-title {
 	font-weight: bold;
